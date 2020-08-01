@@ -184,6 +184,10 @@ body {
 
 /*Footer*/
 
+.white-logo {
+  color: var(--white-color);
+}
+
 .social-link {
   text-decoration: none;
 }
